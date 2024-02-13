@@ -1,0 +1,16 @@
+.converter {
+    width: 300px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.converter input,
+.converter select,
+.converter button {
+    margin: 5px;
+    padding: 5px;
+}
+
+.converter h2 {
+    margin-top: 20px;
+}
